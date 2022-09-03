@@ -23,7 +23,7 @@ switch (login) {
     break;
     }
     case "Other": {
-		console.log("I don't know you");
+		console.log("Wrong person");
 		break;
 	}
     default: {
